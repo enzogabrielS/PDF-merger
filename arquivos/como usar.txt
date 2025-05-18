@@ -1,0 +1,3 @@
+-- Cole aqui nesta pasta "arquivos" os seus pdf's
+
+--Nomeie-os de forma numerada como por exemplo "01_PDFTeste", "02_PDFTeste", "03_PDFTeste" e assim por diante...
